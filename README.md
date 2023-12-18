@@ -2,5 +2,5 @@
 #### Case Study from Google Data Analysis Course
 Repositório para o projeto final da certificação de Analista de Dados Google
 
-# Caso de Estudo:
-Case Study: 
+# Caso de Estudo: Assinaturas de Streaming
+Case Study: Streaming signature 
